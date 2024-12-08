@@ -1,80 +1,100 @@
-*{
-    font-family:"Karma", serif;
+* {
+    font-family: "Karma", serif;
     padding: 0;
     margin: 0;
 }
-body{
-    background-color: rgb(242, 233, 241);
+
+body {
+    background-color: rgb(249, 227, 246);
 }
-header{
- padding: 10px;
- position: sticky;
- top: 0;
- background-color: rgb(222, 191, 222);
+
+header {
+    padding: 10px;
+    position: sticky;
+    top: 0;
+    background-color: rgb(222, 191, 222);
 }
-nav{
+
+nav {
     display: inline-block;
     font-size: 25px;
 }
-.nav1{
+
+.nav1 {
     margin-left: 200px;
 }
-.nav2{
+
+.nav2 {
     margin-left: 350px;
 }
-.nav3{
+
+.nav3 {
     margin-left: 300px;
 }
-.main{
+
+.main {
     text-align: center;
     margin: 10px;
 }
-.main2{
+
+.main2 {
     text-align: center;
     margin-top: -130px;
 }
-.item-1,.item-2,.item-3,.item-4{
-    height:700px;
+
+.item-1,
+.item-2,
+.item-3,
+.item-4 {
+    height: 700px;
     display: inline-block;
-    width:250px;
+    width: 250px;
     vertical-align: top;
-    margin:10px;
+    margin: 10px;
 }
-h3{
+
+h3 {
     font-size: 25px;
     font-weight: 600;
     margin: 0;
 }
-img{
-    width:100%;
+
+img {
+    width: 100%;
 }
-p{
+
+p {
     margin: 0;
 }
-.navigation{
+
+.navigation {
     text-align: center;
     margin-top: -35px;
 }
-a{
+
+a {
     font-size: 18px;
     margin: 10px;
     color: rgb(153, 76, 117);
     font-weight: 600;
 }
-.line1{
+
+.line1 {
     margin-left: 40px;
     margin-right: 40px;
     margin-top: 50px;
     color: black;
 }
-.chef{
+
+.chef {
     text-align: center;
     font-weight: 600;
-    margin-top:45px;
+    margin-top: 45px;
     padding: 20px;
 
 }
-.chefImg{
+
+.chefImg {
     width: 60%;
     margin-left: 280px;
 }
